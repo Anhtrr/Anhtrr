@@ -41,7 +41,7 @@
 
 ## 📊 Profile Stats
 ![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhtrr&count_private=true&title_color=1e1e1e&text_color=4cb361)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&layout=compact&langs_count=4&title_color=1e1e1e&text_color=4cb361)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&layout=compact&langs_count=4&title_color=1e1e1e&text_color=1e1e1e)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
