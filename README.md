@@ -41,7 +41,7 @@
 
 ## 📊 Profile Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&layout=compact&theme=transparent&title_color=133e2b)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
