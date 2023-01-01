@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Anh!
 
 ## 👨‍🎓 About Me
- 🎓 I am currently a fourth and final year undergraduate student at **NYU Courant**, pursuing a Bachelors in **Computer Science**. 
- 👔 I am actively searching for a full time, **entry level Software Engineer role!** 
- ⌨️ I enjoy **Full-Stack Web Development** and have an interest in the potential of **Blockchain!**
+ 🎓 I am currently a fourth and final year undergraduate student at **NYU Courant**, pursuing a Bachelors in **Computer Science**.   
+ 👔 I am actively searching for a full time, **entry level Software Engineer role!**     
+ ⌨️ I enjoy **Full-Stack Web Development** and have an interest in the potential of **Blockchain!**    
  
 ## 🔧 Skills
 
