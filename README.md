@@ -40,8 +40,8 @@
 **Send Me A Message:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=84901795688) [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/Anhtrr)    
 
 ## 📊 Profile Stats
-![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhtrr&count_private=true&title_color=1e1e1e&text_color=133e2b)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&layout=compact&langs_count=4&theme=transparent&title_color=1e1e1e)](https://github.com/anuraghazra/github-readme-stats)
+![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhtrr&count_private=true&title_color=1e1e1e&text_color=4cb361)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&layout=compact&langs_count=4&title_color=1e1e1e&text_color=4cb361)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
