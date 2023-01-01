@@ -33,8 +33,8 @@
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
 
 ## 📳 Get In Touch
-#Send Me An Email: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anhtrr7@gmail.com)    
-#Send Me A Message: [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=84901795688)    
+**Send Me An Email:** [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anhtrr7@gmail.com)    
+**Send Me A Message:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=84901795688)    
 
 
 <!--
