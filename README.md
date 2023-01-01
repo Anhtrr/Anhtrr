@@ -41,12 +41,20 @@
      
 ## 📊 Profile Stats
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Anhtrr/count.svg"/>
+  My Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Anhtrr/count.svg"/>   
 </p>
       
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Anhtrr&bg_color=00000000&count_private=true&title_color=FAF9F6&text_color=4cb361)     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&bg_color=00000000&layout=compact&langs_count=4&title_color=FAF9F6&text_color=FAF9F6)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  My General Github Stats<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhtrr&bg_color=00000000&count_private=true&hide_title=true&text_color=4cb361"/>   
+</p>
+      
+<p align="center"> 
+  My Top Languages<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&bg_color=00000000&layout=compact&langs_count=4&hide_title=true&text_color=FAF9F6"/>   
+</p>
+     
 
 
 
