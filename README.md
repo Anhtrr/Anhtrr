@@ -32,6 +32,10 @@
 [<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
 
+## 📳 Get In Touch
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anhtrr7@gmail.com)    
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=84901795688)    
+
 
 <!--
 **Anhtrr/Anhtrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
