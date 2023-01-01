@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Anh!
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anhtrr/)
+<p align = "center">
+ 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/anhtrr/)
  [<img src="https://img.shields.io/badge/AT-PERSONAL%20WEBSITE-4cb361?style=for-the-badge"/>]()
+
+</p>
  
 ## 👨‍🎓 About Me
  🎓 I am currently a fourth and final year undergraduate student at **NYU Courant**, pursuing a Bachelors in **Computer Science**.   
