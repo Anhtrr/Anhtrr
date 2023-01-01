@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&bg_color=00000000&layout=compact&langs_count=4&title_color=FAF9F6&text_color=FAF9F6)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
   Visitor count<br>
-  <img src="[https://profile-counter.glitch.me/sagar-viradiya/count.svg](https://profile-counter.glitch.me/Anhtrr/count.svg)"/>
+  <img src="https://profile-counter.glitch.me/Anhtrr/count.svg"/>
 </p>
 
 
