@@ -47,7 +47,7 @@
       
 <p align="center"> 
   My General Github Stats<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anhtrr&bg_color=00000000&count_private=true&hide_title=true&text_color=4cb361"/>   
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhtrr&bg_color=00000000&title_color=4cb361&count_private=true&hide_title=true&text_color=4cb361"/>   
 </p>
       
 <p align="center"> 
