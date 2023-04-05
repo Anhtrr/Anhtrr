@@ -47,12 +47,12 @@
       
 <p align="center"> 
   My General Github Stats<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anhtrr&bg_color=00000000&title_color=4cb361&count_private=true&hide_title=true&text_color=4cb361"/>   
+  <img src="https://github-readme-stats-qbpqrts61-anhtrr.vercel.app/api?username=Anhtrr&bg_color=00000000&title_color=4cb361&count_private=true&hide_title=true&text_color=4cb361"/>   
 </p>
       
 <p align="center"> 
   My Top Languages<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtrr&bg_color=00000000&layout=compact&langs_count=4&hide_title=true&text_color=FAF9F6"/>   
+  <img src="https://github-readme-stats-qbpqrts61-anhtrr.vercel.app/api/top-langs/?username=Anhtrr&bg_color=00000000&layout=compact&langs_count=4&hide_title=true&text_color=FAF9F6"/>   
 </p>
      
 
