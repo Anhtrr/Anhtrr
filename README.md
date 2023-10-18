@@ -4,7 +4,7 @@
  [<img src="https://img.shields.io/badge/AT-PERSONAL%20WEBSITE-4cb361?style=for-the-badge"/>](https://anhtrr.com/)
       
 ## 👨‍🎓 About Me
- 🎓 I am currently a fourth and final year undergraduate student at **NYU**, pursuing a Bachelors in **Computer Science**.   
+ 🎓 I am a Spring 23 graduate from **NYU** with a Bachelors in **Computer Science**.   
  👔 I am actively searching for a full time, **entry level Software Engineer role!**     
  ⌨️ I enjoy **Full-Stack Web Development** and have an interest in the potential of **Blockchain!**     
      
